@@ -10,3 +10,14 @@
   align-items: flex-end;
   justify-content: center;
 }
+
+.search-container{
+  margin-bottom: 50px;
+}
+
+p.filtered-posts{
+  color: red;
+  font-weight: 600;
+  font-size: 1.3em;
+  text-transform: uppercase;
+}
